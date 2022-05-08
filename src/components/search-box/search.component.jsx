@@ -11,4 +11,4 @@ export function Search({ placeholder, handleChange }) {
             onChange={handleChange}
             className='search' />
     );
-}
+};
