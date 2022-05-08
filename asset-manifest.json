@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rolodex/static/css/main.b32707f8.css",
+    "main.js": "/rolodex/static/js/main.0eeda876.js",
+    "index.html": "/rolodex/index.html",
+    "main.b32707f8.css.map": "/rolodex/static/css/main.b32707f8.css.map",
+    "main.0eeda876.js.map": "/rolodex/static/js/main.0eeda876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b32707f8.css",
+    "static/js/main.0eeda876.js"
+  ]
+}
